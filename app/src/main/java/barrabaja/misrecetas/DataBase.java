@@ -25,6 +25,7 @@ public class DataBase {
     private SQLiteDatabase mDb = null;
     private static final byte DATABASE_VERSION = 1;
     private static final String DATABASE_NAME = "mis_recetas";
+    private static final String PUREBA = "blablabla";
 
     //Campos, tablas y creates de la base de datos
     //Campos comunes
