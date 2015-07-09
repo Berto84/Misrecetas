@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mis recetas</string>
+    <string name="user">User</string>
+    <string name="pass">Pass</string>
+    <string name="access">Access</string>
+    <string name="lost">Forget?</string>
+    <string name="action_settings">Settings</string>
+    <string name="newuser">New User</string>
+</resources>
